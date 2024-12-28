@@ -1,5 +1,5 @@
 
-# Space Invaders Game: Debugging and Fixing a Broken Game
+# Space Invaders: Debugging and Fixing a Broken Game
 
 ## Overview
 This project involved receiving a **non-functional and broken** version of the classic **Space Invaders** game. The task was to **test**, **debug**, and **correct** the code to restore the game’s functionality and make it playable again.
