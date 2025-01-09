@@ -63,4 +63,5 @@ After applying the necessary fixes and debugging, the **Space Invaders** game is
 Feel free to fork the repository and contribute by fixing bugs, adding new features, or improving the code. Contributions are always welcome!
 
 ## License
-[Include licensing information here, e.g., MIT License]
+This project is licensed under the MIT License.  
+You can find the full license text in the [LICENSE](./LICENSE) file.
