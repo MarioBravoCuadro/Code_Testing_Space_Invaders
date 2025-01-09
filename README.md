@@ -60,7 +60,7 @@ After applying the necessary fixes and debugging, the **Space Invaders** game is
 3. Enjoy the restored Space Invaders experience!
 
 ## Contributing
-Feel free to fork the repository and contribute by fixing bugs, adding new features, or improving the code. Contributions are always welcome!
+This project is complete and not planned for modifications. It is intended for observation purposes only. Contributions are not accepted, and changes are not planned.
 
 ## License
 This project is licensed under the MIT License.  
